@@ -109,3 +109,8 @@ and completion of the entire project.
 - Member 2: implemented the hashing/search and BST/AVL trees. helped with testing, integration, validation, debugging and GitHub collaboration.
 - Member 3: implemented the place student record management and linked lists. helped with documentation, testing, validation, GitHub collaboration and debugging.
 - Member 4: The queue and stack structures and operations were implemented into reality. helped with debugging, testing, validation, GitHub collaboration and integration.
+
+## Collaboration
+
+This project was developed using GitHub version control with commit,
+branches, and pull requests.
